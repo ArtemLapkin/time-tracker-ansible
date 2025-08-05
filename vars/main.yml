@@ -1,0 +1,6 @@
+env_vars:
+  DATABASE_USER: your_user
+  DATABASE_PASSWORD: your_pass
+  DATABASE_NAME: your_db
+  AWS_ACCESS_KEY_ID: your_key
+  AWS_SECRET_ACCESS_KEY: your_secret
